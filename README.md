@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cosp_logo.png" width="250">
+  <img src="assets/COSP_logo.png" width="250">
 </p>
 
 <h1 align="center">COSP</h1>
