@@ -25,7 +25,21 @@ Early research and planning phase.
 - Establish simulation and testing frameworks
 
 ## Technologies
-TBD
+
+### Programming Languages
+
+* C++ — onboard software, embedded systems and satellite control
+* Python — simulations, orbital calculations, data analysis and visualization
+* GNU Octave — mathematical modeling, control systems and numerical analysis
+
+### Planned Areas
+
+* Satellite flight software
+* Orbital mechanics simulation
+* Mission planning tools
+* Telemetry processing
+* Attitude determination and control systems (ADCS)
+* Embedded systems development
 
 ## Contributions
 Contributors are welcome to participate in research, simulations, and prototype development. All contributions should follow the project guidelines once established.
