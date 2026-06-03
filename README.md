@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/COSP_logo.png" width="250">
+  <img src="assets/LOGO_no_bg.png" width="350">
 </p>
 
 <h1 align="center">COSP</h1>
@@ -8,7 +8,7 @@
   Caucasus Orbital Satellite Program
 </p>
 
-# COSP
+# About project
 
 The Caucasus Orbital Satellite Program (COSP) is a collaborative engineering project focused on robotics, aerospace systems, and satellite simulation technologies. The project serves as a platform for research, learning, and experimentation in aerospace engineering.
 
