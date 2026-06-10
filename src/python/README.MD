@@ -19,7 +19,7 @@ Current areas of development include:
 ---
 
 # CubeSat LEO Insertion Mission Simulator
-
+![Mission Simulation](mission_scientific.gif)
 One of the primary COSP modules is the CubeSat LEO Insertion Mission Simulator.
 
 This simulation models the complete deployment of a CubeSat into a 500 km circular Low Earth Orbit using a two-stage launch vehicle. The objective is to reproduce the mission sequence as realistically as possible while maintaining a clear and engineering-oriented visualization style inspired by MATLAB and NASA mission analysis tools.
